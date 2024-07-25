@@ -15,7 +15,7 @@ export default function SideNav() {
         <div className="w-32 text-white md:w-40">
           {/* <AcmeLogo /> */}
           <Image
-              src="/logofornav.png"
+              src="/logo.png"
               width={50}
               height={50}
               alt="Logo"
